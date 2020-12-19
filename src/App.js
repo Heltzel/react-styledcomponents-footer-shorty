@@ -1,5 +1,12 @@
+import React from 'react'
+import { FooterContainer } from './containers/footer'
+
 function App() {
-  return <div className="App">Hello from App</div>
+  return (
+    <>
+      <FooterContainer />
+    </>
+  )
 }
 
 export default App
