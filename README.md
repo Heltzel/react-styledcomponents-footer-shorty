@@ -1,4 +1,4 @@
-# Muscle Memory training: Footer
+# Muscle Memory training:  React Footer
 
 ## Features 
  <ul>
